@@ -108,3 +108,13 @@
 #  print(a+b)
  
 # add(111,2)
+
+
+
+# mylist = ['yi' , 0 , 11.4]
+# for i in mylist : 
+#     print(i)
+
+# for i in range(10):
+#     print(" * " * i )
+
