@@ -47,13 +47,15 @@
 # a = int(input("a : "))
 # b = int(input("b : "))
 
-# # a = a * b
-# # b = a // b
-# # a = a // b
+# # # a = a * b
+# # # b = a // b
+# # # a = a // b
 
-## a = a + b
-## b = a - b
-## a = a - b
+# ### a = a + b
+# ## b = a - b
+# ## a = a - b
+
+ #!a,b = b,a
 
 # print(f'a = {a}')
 # print(f'b = {b}')
