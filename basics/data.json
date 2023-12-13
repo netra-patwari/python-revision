@@ -1,0 +1,38 @@
+{
+    "company": "Tech Innovators Inc.",
+    "employees": [
+      {
+        "name": "Alice Johnson",
+        "age": 35,
+        "position": "Lead Software Engineer",
+        "location": "San Francisco"
+      },
+      {
+        "name": "Bob Smith",
+        "age": 28,
+        "position": "UX Designer",
+        "location": "New York"
+      },
+      {
+        "name": "Charlie Davis",
+        "age": 40,
+        "position": "Data Analyst",
+        "location": "Seattle"
+      },
+      {
+        "name": "Diana Rodriguez",
+        "age": 32,
+        "position": "Marketing Specialist",
+        "location": "Los Angeles"
+      },
+      {
+        "name": "Ethan Turner",
+        "age": 29,
+        "position": "Product Manager",
+        "location": "Austin"
+      }
+    ],
+    "office_locations": ["San Francisco", "New York", "Seattle", "Los Angeles", "Austin"],
+    "company_focus": "Tech Innovation and Digital Solutions"
+  }
+  

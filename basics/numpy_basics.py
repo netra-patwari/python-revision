@@ -100,8 +100,8 @@ a = np.array([[1,2,3,4,5] , [5,4,3,2,1]])
 # print(arr + brr)
 
 # !LOAD DATA FROM FILE  
-filedata = np.genfromtxt('basics/data.txt', delimiter=',')
-filedata = filedata.astype('int32')
-print(filedata)
+# filedata = np.genfromtxt('basics/data.txt', delimiter=',')
+# filedata = filedata.astype('int32')
+# print(filedata)
 
-print(filedata > 40)
+# print(filedata > 40)
