@@ -72,4 +72,3 @@ import pandas as pd
 
 # df.fillna("YOLO", inplace = True) # method allows us to replace empty cells with a value
 # print(df)
-
